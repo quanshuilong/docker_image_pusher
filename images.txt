@@ -1,3 +1,3 @@
-buildpack-deps:stretch-scm --platform=linux_arm64
+buildpack-deps:stretch-scm
 #支持私库
 
