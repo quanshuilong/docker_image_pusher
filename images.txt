@@ -1,3 +1,6 @@
-arm64v8/buildpack-deps:stretch-scm
+arm64v8/redis
+arm64v8/mysql:5.6
+arm64v8/registry
+arm64v8/nginx
 #支持私库
 
