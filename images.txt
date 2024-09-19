@@ -1,3 +1,3 @@
-arm64v8/buildpack-deps:stretch-scm
+arm64/nginx
 #支持私库
 
