@@ -1,3 +1,3 @@
---platform=linux/arm64 nginx/nginx-prometheus-exporter
+--platform=linux/arm64 prometheuscommunity/pgbouncer-exporter
 #支持私库
 
