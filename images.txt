@@ -1,3 +1,3 @@
---platform=linux/arm64 rootpublic/pgbouncer-exporter
+--platform=linux/arm64 bitnami/jmx-exporter
 #支持私库
 
