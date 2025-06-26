@@ -1,3 +1,3 @@
---platform=linux/arm64 jaegertracing/jaeger-es-index-cleaner:1.29
+--platform=linux/arm64 istio/install-cni:1.14.6
 #支持私库
 
